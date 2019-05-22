@@ -1,4 +1,4 @@
-# SpringBoot 整合springsecurity源码
+# SpringBoot 整合SpringSecurity源码
 
 #### 项目介绍
 csdn上发表博客的教程源码
